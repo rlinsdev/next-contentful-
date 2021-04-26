@@ -1,10 +1,10 @@
 import Link from 'next/link'
 
-export default function Layout({ children }) {
+export default function Layout ({ children }) {
   return (
-    <div className="layout">
+    <div className='layout'>
       <header>
-        <Link href="/">
+        <Link href='/'>
           <a>
             <h1>
               <span>Just Add</span>
@@ -15,8 +15,8 @@ export default function Layout({ children }) {
         </Link>
       </header>
 
-      <div className="page-content">
-        { children }
+      <div className='page-content'>
+        {children}
       </div>
 
       <footer>
