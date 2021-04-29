@@ -9,4 +9,8 @@ npx create-next-app [your-site-name] -e https://github.com/iamshaunjp/next-conte
 ```
 
 ## Publish
-Vercel
+Vercel:
+https://next-contentful-sand.vercel.app/
+
+## Contenfull
+https://www.contentful.com/
