@@ -14,3 +14,6 @@ https://next-contentful-sand.vercel.app/
 
 ## Contenfull
 https://www.contentful.com/
+
+## Web Hooks
+SetUp webHooks in Vercel Vs Contenful. Adding a new Content, it´ll call a new job to re publish de app and show the new content (Trigger a re-deploy)
